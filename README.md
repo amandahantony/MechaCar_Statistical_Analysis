@@ -26,3 +26,5 @@
 The t-test is used to determine whether there is a statistical difference between the mean of a sample dataset and the mean of potential population dataset. In this project, we determined the statistical difference between PSI across manufacturing lots and the population mean of 1500 pounds per square inch. 
 
 ![All T-test](Images/ttest_all_manufacturing_lots.png)
+
+1) The t-test above shows 
