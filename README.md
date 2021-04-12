@@ -46,4 +46,5 @@ The t-test is used to determine whether there is a statistical difference betwee
 ## Study Design: MechaCar vs Competition
 
 **1) Cost**
+
 One metric that would be of interest to a consumer when choosing to buy a vehicle is, cost. We can compare the costs between MechaCar vehicles and other manufacturers. Costs depend on fuel efficiency, horsepower, mileage etc. Once we have sorted and grouped cars of similar horsepower, mileage etc., we can compare the mean prices of the vehicles. If we are comparing MechaCar to one other manufacturer we can use the two sample t-test. If we are comparing MechaCar and multiple other manufacturers we can use the ANOVA test. For consumers to prefer MechaCar over other manufacturers, the MechaCar vehicle would ideally be lower in cost with all other metrics being of similar quality or degree. The null hypothesis is that there is no difference between the cost of MechaCar vehicles and vehicles from other manufacturers. 
