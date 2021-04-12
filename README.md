@@ -27,4 +27,16 @@ The t-test is used to determine whether there is a statistical difference betwee
 
 ![All T-test](Images/ttest_all_manufacturing_lots.png)
 
-1) The t-test above shows 
+- The t-test above shows that the p value is 0.06028, which is greater than 0.05. This means that there is no significant difference between PSI of all manufactoring lots and the population mean of 1500. 
+
+![T-test Lot 1](Images/ttest_manufacturing_lot1.png)
+
+- The test above was conducted between the PSI values of Lot1 and population mean 1500. In this t-test the p value is 1, which means that there is no difference between the means, other than due to chance. This is also proven in the lot summary where the mean of Lot1 PSI values is exactly equal to 1500, with a very small variance of 0.9795918. 
+
+![T-test Lot 2](Images/ttest_manufacturing_lot2.png)
+
+- The test above was conducted between the PSI values of Lot2 and population mean 1500. In this t-test the p value is 0.6072, which means that there is no significant difference between the two means. 
+
+![T-test Lot 3](Images/ttest_manufacturing_lot3.png)
+
+- The test above was conducted between the PSI values of Lot3 and population mean 1500. In this t-test the p value is 0.04168, which means that there is a signficant difference between the two means.
