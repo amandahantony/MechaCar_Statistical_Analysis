@@ -18,4 +18,4 @@
 
 ![Lot Summary](Images/lot_summary.png)
 
-1) The summary above shows the mean, median, variance and standard deviation of PSI values for each manufacturing lot (Lot1, Lot2, Lot3). The variance for Lot1 and Lot2 are 0.9795918 and 7.4693878, respectively. These variance values meet the design specifications. However, the variance of Lot3 PSI values is 170.2861224m which exceeds the design limits. 
+1) The summary above shows the mean, median, variance and standard deviation of PSI values for each manufacturing lot (Lot1, Lot2, Lot3). The variance for Lot1 and Lot2 are 0.9795918 and 7.4693878, respectively. These variance values meet the design specifications. However, the variance of Lot3 PSI values is 170.2861224m which exceeds the design limits. This large variance indicates that the Lot3 values are far from the mean and also from each other. 
