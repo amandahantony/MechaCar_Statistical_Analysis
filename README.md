@@ -40,3 +40,7 @@ The t-test is used to determine whether there is a statistical difference betwee
 ![T-test Lot 3](Images/ttest_manufacturing_lot3.png)
 
 - The test above was conducted between the PSI values of Lot3 and population mean 1500. In this t-test the p value is 0.04168, which means that there is a signficant difference between the two means.
+
+----
+
+## Study Design: MechaCar vs Competition
