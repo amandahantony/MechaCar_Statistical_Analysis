@@ -19,3 +19,10 @@
 ![Lot Summary](Images/lot_summary.png)
 
 1) The summary above shows the mean, median, variance and standard deviation of PSI values for each manufacturing lot (Lot1, Lot2, Lot3). The variance for Lot1 and Lot2 are 0.9795918 and 7.4693878, respectively. These variance values meet the design specifications. However, the variance of Lot3 PSI values is 170.2861224m which exceeds the design limits. This large variance indicates that the Lot3 values are far from the mean and also from each other. 
+
+----
+
+## T-Tests on Suspension Coils
+The t-test is used to determine whether there is a statistical difference between the mean of a sample dataset and the mean of potential population dataset. In this project, we determined the statistical difference between PSI across manufacturing lots and the population mean of 1500 pounds per square inch. 
+
+![All T-test](Images/ttest_all_manufacturing_lots.png)
